@@ -14,7 +14,13 @@
 	"version": "1.0.0",
 	"description": "This is something really cool to help me learn node package manager?",
 	"devDependencies": {},
-	"keywords": [],
+	"keywords": [
+		"freeCodeCamp",
+		"node package manager",
+		"code",
+		"node",
+		"learning"
+	],
 	"author": "Katrina Zongker",
 	"license": "ISC",
 	"bugs": {
