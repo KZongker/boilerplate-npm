@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"version": "1.0.0",
+	"version": "2.5.1",
 	"description": "This is something really cool to help me learn node package manager?",
 	"devDependencies": {},
 	"keywords": [
